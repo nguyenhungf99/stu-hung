@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-hello STUnited  my name is hungnguyen
-=======
-hello STUnited SW
->>>>>>> 7ba79751d1b8bf95e190d6f3d92e3355174414a1
+hello STUnited 
